@@ -1,0 +1,6 @@
+We will use a GRAPH
+
+Nodes are the requirements
+Edges are courses
+and use a Min spanning tree to find the best
+is there a way to find every min spanning tree...

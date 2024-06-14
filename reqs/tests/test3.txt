@@ -1,0 +1,2 @@
+TST 002: Sample Course 2 Units: 4
+TST 003: Sample Course 3 Units: 4
