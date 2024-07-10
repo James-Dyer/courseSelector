@@ -2,7 +2,7 @@
 #include "GlobalVariables.h"
 
 std::unordered_map<std::string, Course*> allCourses;
-Graph myGraph;
+Graph globalGraph;
 
 
 //Finds a course in allCourses and returns its pointer
@@ -28,10 +28,10 @@ bool checkCourseUniqueness(const std::string& shortName) {
 }
 
 void printCourseInfo(){
-    for (size_t i = 0; i < myGraph.requirements.size(); i++) {
-        std::cout << myGraph.requirements[i]->name << std::endl;
-        for (size_t j = 0; j < myGraph.requirements[i]->courses.size(); j++) {
-            std::cout << "\t" << myGraph.requirements[i]->courses[j]->shortName << std::endl;
+    for (size_t i = 0; i < globalGraph.requirements.size(); i++) {
+        std::cout << globalGraph.requirements[i]->name << std::endl;
+        for (size_t j = 0; j < globalGraph.requirements[i]->courses.size(); j++) {
+            std::cout << "\t" << globalGraph.requirements[i]->courses[j]->shortName << std::endl;
         }
         std::cout << "\n";
     }

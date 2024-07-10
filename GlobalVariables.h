@@ -9,7 +9,7 @@
 #include "Req.h"
 #include "GraphLogic.h"
 
-extern Graph myGraph;
+extern Graph globalGraph;
 
 Course* findCourse(const std::string& shortName);
 

@@ -17,7 +17,7 @@ void readCoursesFromFile(const std::string& filename) {
 
     //create new requirement
     Requirement* myReq = new Requirement(shortReqName);
-    myGraph.requirements.push_back(myReq);
+    globalGraph.requirements.push_back(myReq);
 
     while (std::getline(file, line)) {
         if (!line.empty() && line[line.size() - 1] == '\r') {
@@ -56,8 +56,8 @@ void readCoursesFromFile(const std::string& filename) {
         //TODO: rewrite courseuniqueness so it goes thru adj matrix instead of the global list n finds the requirement its in
         if (checkCourseUniqueness(shortName)) {
             Course* newCourse = new Course(fullName, shortName, units);
-            myGraph.allCourses.emplace(shortName, newCourse);
-            myGraph.courses.push_back(newCourse);
+            globalGraph.allCourses.emplace(shortName, newCourse);
+            globalGraph.courses.push_back(newCourse);
             myReq->addCourse(newCourse);
         } else {
             Course* myCourse = findCourse(shortName);
