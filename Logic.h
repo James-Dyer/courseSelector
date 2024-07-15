@@ -1,5 +1,5 @@
-#ifndef GRAPHLOGIC_H
-#define GRAPHLOGIC_H
+#ifndef Logic_H
+#define Logic_H
 #include <vector>
 #include <iostream>
 #include <algorithm>
@@ -7,13 +7,14 @@
 #include <unordered_map>
 #include "Req.h"
 #include "Course.h"
+#include "GlobalVariables.h"
 
-struct Graph{
+struct Logic{
     std::vector<Requirement*> requirements;
     std::vector<Course*> courses;
     std::unordered_map<std::string, Course*> allCourses;
 
-    int findMinClasses();
+    //int findBestClasses(std::vector<Course*> prechosenCourses);
 };
 
 #endif

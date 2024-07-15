@@ -7,9 +7,10 @@
 #include <string>
 #include "Course.h"
 #include "Req.h"
-#include "GraphLogic.h"
+#include "Logic.h"
 
-extern Graph globalGraph;
+
+extern struct Logic globalData;
 
 Course* findCourse(const std::string& shortName);
 
