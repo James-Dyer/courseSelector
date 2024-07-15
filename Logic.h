@@ -13,8 +13,13 @@ struct Logic{
     std::vector<Requirement*> requirements;
     std::vector<Course*> courses;
     std::unordered_map<std::string, Course*> allCourses;
+    std::unordered_map<std::string, Requirement*> fulfilledReqs;
 
-    //int findBestClasses(std::vector<Course*> prechosenCourses);
+    int findBestClasses(std::vector<Course*> prechosenCourses);
+
+    bool isReqFulfilled(Requirement* req);
+
+    void fulfillRequirement(Requirement* req);
 };
 
 #endif
