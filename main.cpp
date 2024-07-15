@@ -21,15 +21,6 @@ int main(int argc, char* argv[])  {
     readCoursesFromFile("./reqs/tests/test4.txt");
     readCoursesFromFile("./reqs/tests/test5.txt");
 
-    //empty for readCoursesFromFile
-    // std::unordered_set<std::string> satisfiedReqs;
-    // int score = 0;
-
-    // std::vector<Course*> courseVector;
-    // for (const auto& pair : allCourses) {
-    //     courseVector.push_back(pair.second);
-    // }
-
     printCourseInfo();
     cleanMemory();
 

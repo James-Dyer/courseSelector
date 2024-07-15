@@ -1,1 +1,1 @@
-TST 001: Sample Course 1 Units: 4
+CRS 001: Sample Course 1 Units: 4

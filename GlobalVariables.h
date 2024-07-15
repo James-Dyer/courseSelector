@@ -12,11 +12,13 @@
 
 extern struct Logic globalData;
 
-Course* findCourse(const std::string& shortName);
+Course* findCourse(const std::string& shortName, const std::unordered_map<std::string, Course*>& map);
 
-bool checkCourseUniqueness(const std::string& shortName);
+bool checkCourseUniqueness(const std::string& shortName, const std::unordered_map<std::string, Course*>& map) ;
 
 void printCourseInfo();
+
+void printUMap(const std::unordered_map<std::string, Course*>& map);
 
 void cleanMemory();
 

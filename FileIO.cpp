@@ -53,14 +53,17 @@ void readCoursesFromFile(const std::string& filename) {
         int units = unitsChar - '0';
 
         // Create a new Course object and add it to the myReq
-        if (checkCourseUniqueness(shortName)) {
+        //we wanna add reqs to courses
+        if (checkCourseUniqueness(shortName, globalData.allCourses)) {
             Course* newCourse = new Course(fullName, shortName, units);
             globalData.allCourses.emplace(shortName, newCourse);
             globalData.courses.push_back(newCourse);
-            myReq->addCourse(newCourse);
+            //myReq->addCourse(newCourse);
+            newCourse->addReq(myReq);
         } else {
-            Course* myCourse = findCourse(shortName);
-            myReq->addCourse(myCourse);
+            Course* myCourse = findCourse(shortName, globalData.allCourses);
+            //myReq->addCourse(myCourse);
+            myCourse->addReq(myReq);
         }
     }
 

@@ -1,7 +1,7 @@
 CC = g++
 CFLAGS = -Wall -std=c++17
 
-SRCS = Logic.cpp GlobalVariables.cpp main.cpp Req.cpp Course.cpp FileIO.cpp
+SRCS = Logic.cpp GlobalVariables.cpp main.cpp Course.cpp Req.cpp FileIO.cpp
 OBJS = $(SRCS:.cpp=.o)
 EXEC = courseSelector
 
