@@ -2,11 +2,11 @@
 CourseSelector is a tool designed to assist UC Merced students in determining the most efficient set of courses to fulfill their general education requirements. By parsing the university's requirement list and analyzing available courses, the algorithm generates optimized schedules, ensuring that all requirements are met with the least number of classes.
 
 ## Features
-- Requirement Parsing: Reads and processes UC Merced's General Education requirements from input files.
-- Course Selection: Identifies courses that fulfill multiple requirements and ensures the most efficient schedule.
-- Schedule Optimization: Outputs the optimal and alternative schedules based on the courses selected.
-- Duplicate Prevention: Eliminates duplicate or suboptimal schedules to ensure clarity.
-- Performance Metrics: Displays execution time for the algorithm to highlight efficiency.
+- **Requirement Parsing**: Reads and processes UC Merced's General Education requirements from input files.
+- **Course Selection**: Identifies courses that fulfill multiple requirements and ensures the most efficient schedule.
+- **Schedule Optimization**: Outputs the optimal and alternative schedules based on the courses selected.
+- **Duplicate Prevention**: Eliminates duplicate or suboptimal schedules to ensure clarity.
+- **Performance Metrics**: Displays execution time for the algorithm to highlight efficiency.
 
 ## How It Works
 #### Workflow
@@ -46,6 +46,6 @@ COURSE102
 The algorithm is designed to handle large input files efficiently by leveraging breadth-first search and hash-based tracking of unique schedules. Execution time is logged for performance monitoring.
 
 ## Future Improvements:
-GUI Integration: Provide a user-friendly interface for course selection.
-Dynamic Input Parsing: Support for real-time requirement updates.
-Advanced Optimization: Incorporate additional constraints like time slots and prerequisites.
+- **GUI Integration**: Provide a user-friendly interface for course selection.
+- **Dynamic Input Parsing**: Support for real-time requirement updates.
+- **Advanced Optimization**: Incorporate additional constraints like time slots and prerequisites.
