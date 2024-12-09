@@ -21,18 +21,18 @@ CourseSelector is a tool designed to assist UC Merced students in determining th
   - Saves the best schedules to a file named best_schedules.txt.
   
 ## Installation and Usage
-### Requirements
+#### Requirements
 - A C++ compiler that supports C++17 or later.
 - Input files structured with the UC Merced general education requirements and courses.
   - (Can be copied and pasted directly from the UC Merced Gen Ed. Requirement Listing website)
-### Compilation
+#### Compilation
 - Use any standard C++ compiler (e.g., GCC, Clang, MSVC) to compile the project. Example with g++:
 `g++ -std=c++17 -o CourseSelector main.cpp FileIO.cpp GlobalVariables.cpp Logic.cpp Schedule.cpp`
-### Running the program
+#### Running the program
 `./courseSelector`
 Place input files in the same directory or provide paths in the code.
 
-### Example Output
+#### Example Output
 --- 
 `best_schedules.txt:`
 ```
@@ -42,8 +42,8 @@ COURSE101
 COURSE102
 ----------------------------------------
 ```
-Performance
 
+## Performance
 The algorithm is designed to handle large input files efficiently by leveraging breadth-first search and hash-based tracking of unique schedules. Execution time is logged for performance monitoring.
 
 ## Future Improvements:
