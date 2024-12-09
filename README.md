@@ -10,13 +10,13 @@ CourseSelector is a tool designed to assist UC Merced students in determining th
 
 ## How It Works
 #### Workflow
-- Input Requirements: A list of requirements is read from files, and their metadata is extracted.
-- Course Database: Builds a database of all courses and their associated requirements.
-- Schedule Generation:
+- **Input Requirements**: A list of requirements is read from files, and their metadata is extracted.
+- **Course Database**: Builds a database of all courses and their associated requirements.
+- **Schedule Generation**:
   - Starts with an empty schedule.
   - Iteratively adds courses, ensuring that no duplicate requirements are fulfilled unnecessarily.
-- Optimization: Compares all potential schedules to find the one that satisfies all requirements with the least number of courses.
-- Output Results:
+- **Optimization**: Compares all potential schedules to find the one that satisfies all requirements with the least number of courses.
+- **Output Results**:
   - Prints optimal schedules to the console.
   - Saves the best schedules to a file named best_schedules.txt.
   
