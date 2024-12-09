@@ -2,23 +2,23 @@
 CourseSelector is a tool designed to assist UC Merced students in determining the most efficient set of courses to fulfill their general education requirements. By parsing the university's requirement list and analyzing available courses, the algorithm generates optimized schedules, ensuring that all requirements are met with the least number of classes.
 
 ## Features
-1. Requirement Parsing: Reads and processes UC Merced's General Education requirements from input files.
-2. Course Selection: Identifies courses that fulfill multiple requirements and ensures the most efficient schedule.
-3. Schedule Optimization: Outputs the optimal and alternative schedules based on the courses selected.
-4. Duplicate Prevention: Eliminates duplicate or suboptimal schedules to ensure clarity.
-5. Performance Metrics: Displays execution time for the algorithm to highlight efficiency.
+- Requirement Parsing: Reads and processes UC Merced's General Education requirements from input files.
+- Course Selection: Identifies courses that fulfill multiple requirements and ensures the most efficient schedule.
+- Schedule Optimization: Outputs the optimal and alternative schedules based on the courses selected.
+- Duplicate Prevention: Eliminates duplicate or suboptimal schedules to ensure clarity.
+- Performance Metrics: Displays execution time for the algorithm to highlight efficiency.
 
 ## How It Works
 ### Workflow
-1. Input Requirements: A list of requirements is read from files, and their metadata is extracted.
-2. Course Database: Builds a database of all courses and their associated requirements.
-3. Schedule Generation:
+- Input Requirements: A list of requirements is read from files, and their metadata is extracted.
+- Course Database: Builds a database of all courses and their associated requirements.
+- Schedule Generation:
   - Starts with an empty schedule.
   - Iteratively adds courses, ensuring that no duplicate requirements are fulfilled unnecessarily.
-4. Optimization: Compares all potential schedules to find the one that satisfies all requirements with the least number of courses.
-5. Output Results:
-- Prints optimal schedules to the console.
-- Saves the best schedules to a file named best_schedules.txt.
+- Optimization: Compares all potential schedules to find the one that satisfies all requirements with the least number of courses.
+- Output Results:
+  - Prints optimal schedules to the console.
+  - Saves the best schedules to a file named best_schedules.txt.
   
 ## Installation and Usage
 ### Requirements
