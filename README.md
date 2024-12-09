@@ -1,9 +1,7 @@
 # CourseSelector
----
 CourseSelector is a tool designed to assist UC Merced students in determining the most efficient set of courses to fulfill their general education requirements. By parsing the university's requirement list and analyzing available courses, the algorithm generates optimized schedules, ensuring that all requirements are met with the least number of classes.
 
 ## Features
----
 1. Requirement Parsing: Reads and processes UC Merced's General Education requirements from input files.
 2. Course Selection: Identifies courses that fulfill multiple requirements and ensures the most efficient schedule.
 3. Schedule Optimization: Outputs the optimal and alternative schedules based on the courses selected.
@@ -11,7 +9,6 @@ CourseSelector is a tool designed to assist UC Merced students in determining th
 5. Performance Metrics: Displays execution time for the algorithm to highlight efficiency.
 
 ## How It Works
----
 ### Workflow
 1. Input Requirements: A list of requirements is read from files, and their metadata is extracted.
 2. Course Database: Builds a database of all courses and their associated requirements.
@@ -24,7 +21,6 @@ CourseSelector is a tool designed to assist UC Merced students in determining th
 - Saves the best schedules to a file named best_schedules.txt.
   
 ## Installation and Usage
----
 ### Requirements
 - A C++ compiler that supports C++17 or later.
 - Input files structured with the UC Merced general education requirements and courses.
@@ -36,7 +32,7 @@ CourseSelector is a tool designed to assist UC Merced students in determining th
 `./courseSelector`
 Place input files in the same directory or provide paths in the code.
 
-## Example Output
+### Example Output
 --- 
 `best_schedules.txt:`
 ```
@@ -50,12 +46,7 @@ Performance
 
 The algorithm is designed to handle large input files efficiently by leveraging breadth-first search and hash-based tracking of unique schedules. Execution time is logged for performance monitoring.
 
-### Future Improvements:
----
+## Future Improvements:
 GUI Integration: Provide a user-friendly interface for course selection.
 Dynamic Input Parsing: Support for real-time requirement updates.
 Advanced Optimization: Incorporate additional constraints like time slots and prerequisites.
-
-## License
----
-This project is licensed under the MIT License. 
