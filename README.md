@@ -9,7 +9,7 @@ CourseSelector is a tool designed to assist UC Merced students in determining th
 - Performance Metrics: Displays execution time for the algorithm to highlight efficiency.
 
 ## How It Works
-### Workflow
+#### Workflow
 - Input Requirements: A list of requirements is read from files, and their metadata is extracted.
 - Course Database: Builds a database of all courses and their associated requirements.
 - Schedule Generation:
@@ -33,7 +33,6 @@ CourseSelector is a tool designed to assist UC Merced students in determining th
 Place input files in the same directory or provide paths in the code.
 
 #### Example Output
---- 
 `best_schedules.txt:`
 ```
 Optimal schedule found with 2 courses.
