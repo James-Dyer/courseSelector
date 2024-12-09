@@ -49,3 +49,6 @@ The algorithm is designed to handle large input files efficiently by leveraging 
 - **GUI Integration**: Provide a user-friendly interface for course selection.
 - **Dynamic Input Parsing**: Support for real-time requirement updates.
 - **Advanced Optimization**: Incorporate additional constraints like time slots and prerequisites.
+
+## License
+This project is licensed under the MIT License. See `LICENSE` for details.
