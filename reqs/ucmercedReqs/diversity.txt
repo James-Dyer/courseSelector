@@ -1,0 +1,296 @@
+    ANTH 001: Introduction to Sociocultural Anthropology Units: 4
+    ANTH 003: Introduction to Anthropological Archaeology Units: 4
+    ANTH 100: History of Anthropological Thought and Practice Units: 4
+    ANTH 110: Migration, Diaspora and Transnational Belonging Units: 4
+    ANTH 111: The Anthropology of Globalization Units: 4
+    ANTH 112: Political Anthropology Units: 4
+    ANTH 113: Urban Anthropology Units: 4
+    ANTH 114: Social Memory Units: 4
+    ANTH 116: Indigenous Activism in the Americas Units: 4
+    ANTH 117: The Anthropology of Citizenship Units: 4
+    ANTH 120: Introduction to Medical Anthropology Units: 4
+    ANTH 121: Ethnomedicine Units: 4
+    ANTH 122: Anthropological Perspectives on Religion and Healing Units: 4
+    ANTH 124: Ethnopsychology Units: 4
+    ANTH 126: Anthropological Approaches to Gender Units: 4
+    ANTH 131: Space and Place: An Anthropological Perspective Units: 4
+    ANTH 132: Archaeological Interpretation Units: 4
+    ANTH 134: Dynamics of Small-scale Societies Units: 4
+    ANTH 140: Cultural Heritage Policy and Practice Units: 4
+    ANTH 141: Writing Narrative for Archaeology Units: 4
+    ANTH 142: Archaeology of Colonialism Units: 4
+    ANTH 144: Archaeology of Religion Units: 4
+    ANTH 149: Topics in Anthropological Archaeology Units: 4
+    ANTH 150: Race and Human Variation Units: 4
+    ANTH 155: Paleodemography Units: 4
+    ANTH 170: Ethnographic Methods Units: 4
+    ANTH 171: Human Population Studies: Data and Mapping Units: 4
+    ANTH 172: Ethnohistory Units: 4
+    ANTH 174: Lithic Artifact Analysis Units: 4
+    BIO 124: Microbial Evolution Units: 4
+    BIOE 001: Bioengineering Seminar Units: 1
+    CCST 060: Introduction to Chicano/a Culture and Experiences Units: 4
+    CCST 113: Latino and Immigrant Health Units: 4
+    CCST 120: Chicanx, Latinx & Indigenous Representation Units: 4
+    CHN 001: Elementary Chinese I Units: 4
+    CHN 002: Elementary Chinese II Units: 4
+    CHN 003: Intermediate Chinese I Units: 4
+    CHN 004: Intermediate Chinese II Units: 4
+    COGS 005: Introduction to Language and Linguistics Units: 4
+    COGS 122: Modeling Social Behavior Units: 4
+    COGS 149: Music, Language, and Cognition Units: 4
+    COGS 178: The Cognitive Science of the Emotions Units: 4
+    COGS 179: The Cognitive Science of Religion Units: 4
+    CRES 001: Introduction to Critical Race and Ethnic Studies Units: 4
+    CRES 020: Introduction to Asian American Studies Units: 4
+    CRES 027: Local Harvest, Global Industry: History of the Production and Consumption of Food Units: 4
+    CRES 040: Introduction to Black Studies Units: 4
+    CRES 043: African Civilization Units: 4
+    CRES 051: The History of Things: A History of the Contemporary World Units: 4
+    CRES 052: Power in Film Units: 4
+    CRES 059A: Cinema as Rebellion and Love Units: 4
+    CRES 072B: Elements and Cultures of Hip Hop Units: 4
+    CRES 076A: Social Dance, Social Bodies Units: 4
+    CRES 100: Theories in Critical Race and Ethnic Studies Units: 4
+    CRES 101: Race and the Media Units: 4
+    CRES 102: Race, Gender, Sexuality Units: 4
+    CRES 110: Interdisciplinary Methods in Critical Race and Ethnic Studies Units: 4
+    CRES 119: Topics in Critical Race and Ethnic Studies Units: 4
+    CRES 120: Race, Law and Civil Rights Units: 4
+    CRES 121: Critical Refugee Studies Units: 4
+    CRES 122: Comparative Immigrations Units: 4
+    CRES 123: Comparative Race and Ethnicity in the United States Units: 4
+    CRES 124BR: African American History 1877 to Present: Research Units: 4
+    CRES 141: The African Diaspora in Latin America Units: 4
+    CRES 147: Decolonizing Africa Units: 4
+    CRES 150: Asians in the Americas Units: 4
+    CRES 152: Twentieth Century Latin American Revolutions Units: 4
+    CRES 153: Mesoamerican Literature and Culture Units: 4
+    CRES 166B: Topics in Korean History and Cultures Units: 4
+    CRES 167B: Topics in Japanese History and Cultures Units: 4
+    CRS 195: Community Research and Service Experience Units:
+    ECON 120: Economics of the Environment and Public Policy Units: 4
+    ECON 140: Labor Economics Units: 4
+    ECON 142: The Economics of Gender and Poverty Units: 4
+    ECON 149: Economics of Sports Units: 4
+    ENG 011: Introduction to World Literature in English Units: 4
+    ENG 018: Crime and Horror in Victorian Literature and Culture Units: 4
+    ENG 022: Love and its Languages Units: 4
+    ENG 030: Literature of Childhood Units: 4
+    ENG 031: Introduction to African-American Literature and Culture Units: 4
+    ENG 032: Introduction to Chicano/a Culture and Experiences Units: 4
+    ENG 033: Literature and Sexuality Units: 4
+    ENG 034: Literatures of Asian America Units: 4
+    ENG 061: Native American Memoir Units: 4
+    ENG 062: Literature and Gender Units: 4
+    ENG 063: 20th Century Women Writers Units: 4
+    ENG 064: LGBT Fiction Units: 4
+    ENG 067: Environmental Justice in Beast Fables Units: 4
+    ENG 071: Literature of Illness and Disability Units: 4
+    ENG 103: British and American Literature, 1830-1940 Units: 4
+    ENG 104: Postwar, Postcolonial, Postmodern Literature and Culture: 1945 to the present Units: 4
+    ENG 109: Encounters with Islam in Eighteenth- and Nineteenth-Century British Literature Units: 4
+    ENG 111: Mesoamerican Literature and Culture Units: 4
+    ENG 112: South Asian Literature and Culture Around the World Units: 4
+    ENG 113: Latinx Literature Units: 4
+    ENG 115: Chicanx Literature Units: 4
+    ENG 116: Literature and History of the 1960s Units: 4
+    ENG 120: Chicanx, Latinx & Indigenous Representation Units: 4
+    ENG 125: Ecology and Indigenous Religious Traditions Units: 4
+    ENG 132: Human Rights and Literature Units: 4
+    ENG 133: Race, Law, and American Literature Units: 4
+    ENG 134: Poetry and Justice Units: 4
+    ENG 136: Working Class Literature: American Units: 4
+    ENG 140: Asian American and Pacific Islander Poetry Units: 4
+    ENG 155: Toni Morrison and James Baldwin Units: 4
+    ENG 165: Tragic Drama: From Ancient Greece to the Present Day Units: 4
+    ENG 169: Theatre and Social Responsibility Units: 4
+    ENG 183: Literature and Queer Ecology Units: 4
+    ENG 184: Literature and Queer Studies Units: 4
+    ENG 185: Reading from the Margin Units: 4
+    ENG 187: Shakespeare and Social Justice Units: 4
+    ENGR 190: Engineering Capstone Design Units: 4
+    ESS 011: Climate Justice Units: 4
+    FRE 001: Elementary French I Units: 4
+    FRE 002: Elementary French II Units: 4
+    FRE 003: Intermediate French I Units: 4
+    FRE 004: Intermediate French II Units: 4
+    FRE 103: French Composition and Conversation Units: 4
+    GASP 003: Introduction to Visual Culture Units: 4
+    GASP 006: Global Art History Units: 4
+    GASP 007: Music in Society Units: 4
+    GASP 030A: Latin American Music Ensemble Units: 2
+    GASP 030C: Swing Band Units: 2
+    GASP 031A: Latin American Dance Ensemble Units: 2
+    GASP 031C: Swing Dance Ensemble Units: 2
+    GASP 041A: Performative Storytelling Units: 2
+    GASP 055A: Arts of Asia Units: 4
+    GASP 055B: Arts of the Islamic World Units: 4
+    GASP 056: Contemporary Art Units: 4
+    GASP 057: History and Practice of Photography Units: 4
+    GASP 059: Topics in Visual Culture Units: 4
+    GASP 059A: Cinema as Rebellion and Love Units: 4
+    GASP 060: Introduction to Film Analysis Units: 4
+    GASP 064B: Power in Film Units: 4
+    GASP 065A: Bollywood Units: 4
+    GASP 066A: The American Musical Units: 4
+    GASP 070B: Music of the Atlantic World Units: 4
+    GASP 072B: Elements and Cultures of Hip Hop Units: 4
+    GASP 076A: Social Dance, Social Bodies Units: 4
+    GASP 079A: Topics in Music Units: 4
+    GASP 079B: Topics in Dance Units: 4
+    GASP 103T: Music, Language, and Cognition Units: 4
+    GASP 103U: Race and the Media Units: 4
+    GASP 119: Topics in Public Art Units: 4
+    GASP 144A: Art for Social Change Units: 4
+    GASP 153: Theater and Social Responsibility Units: 4
+    GASP 156B: South Asia After Europe: Visual Cultures of Colonialism & Post-colonialism Units: 4
+    GASP 157: Critical Photography Units: 4
+    GASP 158B: Women, Gender, and Art in Islamic Cultures Units: 4
+    GASP 160: Film Theory and Criticism Units: 4
+    GASP 172B: Global Popular Music Units: 4
+    GASP 173A: Theory and Method of Ethnomusicology Units: 4
+    GASP 174A: Music, Gender, and Sexuality Units: 4
+    GASP 190: Theories of Expressive Culture Units: 4
+    HIST 016: Forging of the United States, 1607-1877 Units: 4
+    HIST 017: Twentieth-Century America Units: 4
+    HIST 027: Local Harvest, Global Industry: History of the Production and Consumption of Food Units: 4
+    HIST 043: African Civilization Units: 4
+    HIST 051: The History of Things: A History of the Contemporary World Units: 4
+    HIST 052: Power in Film Units: 4
+    HIST 055: Arts of the Islamic World Units: 4
+    HIST 055A: Arts of Asia Units: 4
+    HIST 070: History of the Middle East to 1500 Units: 4
+    HIST 071: History of the Middle East since 1500 Units: 4
+    HIST 106: Topics in the History of Women and Gender Units: 4
+    HIST 107: Topics in Urban History Units: 4
+    HIST 115: Topics in African History Units: 4
+    HIST 116: History of Decolonization in the Twentieth Century Units: 4
+    HIST 123: Comparative Race and Ethnicity in the United States Units: 4
+    HIST 124A: African American History to 1877 Units: 4
+    HIST 124B: African American History 1877 to Present Units: 4
+    HIST 124BR: African American History 1877 to Present: Research Units: 4
+    HIST 133: Topics in Nineteenth Century U.S. History Units: 4
+    HIST 135: Literature and History of the 1960s Units: 4
+    HIST 137: Gender, Race, and Slavery in American History Units: 4
+    HIST 138: Topics in Visual Culture Units: 4
+    HIST 141: The African Diaspora in Latin America Units: 4
+    HIST 142R: Topics in Latin American History: Research Units: 4
+    HIST 143: West Africa and the Making of the Atlantic World Units: 4
+    HIST 147: Decolonizing Africa Units: 4
+    HIST 152: Twentieth Century Latin American Revolutions Units: 4
+    HIST 156B: South Asia After Europe: Visual Cultures of Colonialism & Post-colonialism Units: 4
+    HIST 158: Topics in Middle Eastern History Units: 4
+    HIST 164: Urban East Asia Units: 4
+    HIST 166A: History of Korea Units: 4
+    HIST 166B: Topics in Korean History and Cultures Units: 4
+    HIST 167A: History of Japan Units: 4
+    HIST 167B: Topics in Japanese History and Cultures Units: 4
+    HIST 172: Europe and the Early Modern Atlantic World Units: 4
+    HIST 181: Historical Geography of North America Units: 4
+    HIST 187R: White Supremacy and White Violence in the US: Research Units: 4
+    HS 140: Cultural Heritage Policy and Practice Units: 4
+    HS 181: Historical Geography of North America Units: 4
+    HS 185: Ethnic Geography Units: 4
+    JPN 001: Elementary Japanese I Units: 4
+    JPN 002: Elementary Japanese II Units: 4
+    JPN 003: Intermediate Japanese I Units: 4
+    JPN 004: Intermediate Japanese II Units: 4
+    JPN 103: Advanced Japanese I Units: 4
+    JPN 104: Advanced Japanese II Units: 4
+    ME 170: Mechanical Engineering Capstone Design Units: 3
+    MGMT 118: Women in Executive Leadership Units: 4
+    MGMT 122: Teams and Organizations Units: 4
+    MIST 011: Climate Justice Units: 4
+    MIST 130: Statistical Data Analysis and Optimization in R for Decision Support Units: 4
+    NSED 100: Project Based Instruction: Assessment and Management for Beginning Teachers Units: 4
+    NSED 120: Classroom Interactions in Science and Mathematics: A Focus on Equity in Urban and Rural Schools Units: 4
+    PH 111: Social Epidemiology Units: 4
+    PH 113: Latino and Immigrant Health Units: 4
+    PHIL 008: Love, Sex, and Gender Units: 4
+    PHIL 109: Philosophy of Law Units: 4
+    POLI 001: Introduction to American Politics Units: 4
+    POLI 009: Community Mobilization and Politics Units: 4
+    POLI 106: Urban Politics Units: 4
+    POLI 111: Liberty, Equality and the Constitution Units: 4
+    POLI 127: Race, Gender, and Politics Units: 4
+    POLI 140: Transitions to Democracy Units: 4
+    POLI 158: Politics of Human Rights Units: 4
+    PSY 124: Health Disparities Units: 4
+    PSY 130: Developmental Psychology Units: 4
+    PSY 133: Neurodevelopmental Cognitive, Language and Learning Disorders Units: 4
+    PSY 134: Adolescent Development Units: 4
+    PSY 142: Psychopathology Units: 4
+    PSY 145: Human Sexuality Units: 4
+    PSY 146: Psychology of Gender Units: 4
+    PSY 151: The Psychology of Stereotyping and Prejudice Units: 4
+    PSY 152: Psychological Perspectives on Cultural, Racial and Ethnic Diversity Units: 4
+    PSY 170: Industrial and Organizational Psychology Units: 4
+    SOC 001: Introduction to Sociology Units: 4
+    SOC 009: Community Mobilization and Politics Units: 4
+    SOC 020: Social Problems Units: 4
+    SOC 030: Social Inequality Units: 4
+    SOC 035: Introduction to Political Sociology Units: 4
+    SOC 060: Introduction to Sociology of Gender Units: 4
+    SOC 107: Law and Society Units: 4
+    SOC 108: Advanced Topics in Criminology Units: 4
+    SOC 110: Social Movements, Protest and Collective Action Units: 4
+    SOC 111: Environmental Sociology Units: 4
+    SOC 112: Climate Change and Society Units: 4
+    SOC 118: Hate Crime Units: 4
+    SOC 120: Sociology of Culture Units: 4
+    SOC 130: Social Stratification Units: 4
+    SOC 131: Urban Inequality Units: 4
+    SOC 132: Sociology of Education Units: 4
+    SOC 134: Sports and Society Units: 4
+    SOC 135: Sociology of Work Units: 4
+    SOC 146: Social Determinants of Health Units: 4
+    SOC 155: Sociology of the Family Units: 4
+    SOC 160: Gender and Society Units: 4
+    SOC 161: Sociology of Sexuality Units: 4
+    SOC 180: Advanced Issues in Race and Ethnicity Units: 4
+    SOC 181: Chicanos in U.S. Society Units: 4
+    SOC 191: Sociology Senior Capstone Units: 4
+    SPAN 001: Elementary Spanish I Units: 4
+    SPAN 002: Elementary Spanish II Units: 4
+    SPAN 003: Intermediate Spanish I Units: 4
+    SPAN 004: Intermediate Spanish II Units: 4
+    SPAN 010: Spanish for Heritage Speakers I Units: 4
+    SPAN 011: Spanish for Heritage Speakers II Units: 4
+    SPAN 050: Introduction to Hispanic Literatures I Units: 4
+    SPAN 051: Introduction to Hispanic Literatures II Units: 4
+    SPAN 060: Introduction to Chicano/a Culture and Experiences Units: 4
+    SPAN 105: Hispanic Cultures I Units: 4
+    SPAN 106: Hispanic Cultures II Units: 4
+    SPAN 107: Spanish for Health Professionals Units: 4
+    SPAN 108: Spanish for Business and Management Units: 4
+    SPAN 111: Empire, The Postcolonial, and Representation: Reading East & West Units: 4
+    SPAN 112: Chicano/a Literature Written in Spanish Units: 4
+    SPAN 113: U.S. Latinx Literature Units: 4
+    SPAN 114: Latinx in Children’s Literature and Film Units: 4
+    SPAN 115: Chicanx Literature Units: 4
+    SPAN 122: Spanish (Peninsular) 18-19 Centuries Units: 4
+    SPAN 123: Spanish (Peninsular) 20-21 Centuries Units: 4
+    SPAN 130: The Transatlantic Baroque Units: 4
+    SPAN 131: Transatlantic Modernismo Units: 4
+    SPAN 140: Latin American Colonial Literature Units: 4
+    SPAN 143: Latin American Literature since Independence Units: 4
+    SPAN 144: Caribbean Literatures and Cultures Units: 4
+    SPAN 145: Novel of the Latin American Dictator Units: 4
+    SPAN 146: Latin American Film and Fiction Units: 4
+    SPAN 147: Latin American Boom Units: 4
+    SPAN 148: The Narrative World of Mario Vargas Llosa Units: 4
+    SPAN 150: Asians in the Americas Units: 4
+    SPAN 151: Diasporas and Exiles in Latin America Units: 4
+    SPAN 153: Bilingualism and Borders in Hispanic Literatures Units: 4
+    SPAN 154: Hispanic Drama and Performing Units: 4
+    SPAN 170: Spanish Linguistics Units: 4
+    SPAN 172: History of the Spanish Language Units: 4
+    SPAN 173: Erotic Novel and Film Units: 4
+    SPAN 175: Spanish in the U.S. Units: 4
+    SPAN 177: Sociolinguistics and Latino Health Units: 4
+    SPAN 180: Topics in Hispanic Languages and Cultures Units: 4
+    SPAN 181: Topics in Literature and Culture Units: 4
+    SPAN 190: Spanish Capstone Seminar Units: 4
+    SPAN 195: Upper Division Undergraduate Research Units:
+    WRI 141: Writing Narrative for Archaeology Units: 4

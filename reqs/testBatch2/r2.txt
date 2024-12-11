@@ -1,0 +1,6 @@
+CRS 005: Sample Course 1 Units: 4
+CRS 006: Sample Course 1 Units: 4
+CRS 011: Sample Course 1 Units: 4
+CRS 012: Sample Course 1 Units: 4
+CRS 013: Sample Course 1 Units: 4
+CRS 014: Sample Course 1 Units: 4

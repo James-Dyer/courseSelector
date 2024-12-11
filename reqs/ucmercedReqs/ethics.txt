@@ -1,0 +1,171 @@
+
+    ANTH 001: Introduction to Sociocultural Anthropology Units: 4
+    ANTH 003: Introduction to Anthropological Archaeology Units: 4
+    ANTH 005: Introduction to Biological Anthropology Units: 4
+    ANTH 100: History of Anthropological Thought and Practice Units: 4
+    ANTH 110: Migration, Diaspora and Transnational Belonging Units: 4
+    ANTH 111: The Anthropology of Globalization Units: 4
+    ANTH 112: Political Anthropology Units: 4
+    ANTH 113: Urban Anthropology Units: 4
+    ANTH 114: Social Memory Units: 4
+    ANTH 116: Indigenous Activism in the Americas Units: 4
+    ANTH 117: The Anthropology of Citizenship Units: 4
+    ANTH 120: Introduction to Medical Anthropology Units: 4
+    ANTH 121: Ethnomedicine Units: 4
+    ANTH 122: Anthropological Perspectives on Religion and Healing Units: 4
+    ANTH 124: Ethnopsychology Units: 4
+    ANTH 126: Anthropological Approaches to Gender Units: 4
+    ANTH 130: Material Culture Units: 4
+    ANTH 131: Space and Place: An Anthropological Perspective Units: 4
+    ANTH 134: Dynamics of Small-scale Societies Units: 4
+    ANTH 140: Cultural Heritage Policy and Practice Units: 4
+    ANTH 141: Writing Narrative for Archaeology Units: 4
+    ANTH 142: Archaeology of Colonialism Units: 4
+    ANTH 144: Archaeology of Religion Units: 4
+    ANTH 149: Topics in Anthropological Archaeology Units: 4
+    ANTH 152: Dying, Death, and Dead Persons Units: 4
+    ANTH 155: Paleodemography Units: 4
+    ANTH 170: Ethnographic Methods Units: 4
+    ANTH 172: Ethnohistory Units: 4
+    BIO 034: Introduction to Marine Science Units: 4
+    BIO 043: Biodiversity and Conservation Units: 4
+    BIO 047: Astrobiology Units: 4
+    BIO 150L: Developmental Biology Laboratory Units: 3
+    BIO 151L: Molecular Immunology Laboratory Units: 1
+    BIO 182: Bioinformatics Units: 4
+    BIOE 108: Genetic Engineering Units: 3
+    CCST 060: Introduction to Chicano/a Culture and Experiences Units: 4
+    CE 100: Civil Engineering for Sustainable Systems Units: 4
+    CHEM 194: Ethics and Communication in Chemistry Units: 1
+    COGS 005: Introduction to Language and Linguistics Units: 4
+    COGS 159: Metaphor and Thought Units: 4
+    COGS 170: Judgment and Decision Making Units: 4
+    CRES 001: Introduction to Critical Race and Ethnic Studies Units: 4
+    CRES 027: Local Harvest, Global Industry: History of the Production and Consumption of Food Units: 4
+    CRES 059A: Cinema as Rebellion and Love Units: 4
+    CRES 070: Music of the Caribbean World Units: 4
+    CRES 076A: Social Dance, Social Bodies Units: 4
+    CRES 100: Theories in Critical Race and Ethnic Studies Units: 4
+    CRES 101: Race and the Media Units: 4
+    CRES 110: Interdisciplinary Methods in Critical Race and Ethnic Studies Units: 4
+    CRES 120: Race, Law and Civil Rights Units: 4
+    CRES 121: Critical Refugee Studies Units: 4
+    CRES 150: Asians in the Americas Units: 4
+    CRS 010: Introduction to Community Engaged Research Units: 4
+    CRS 195: Community Research and Service Experience Units:
+    CSE 005: Introduction to Computer Applications Units: 4
+    CSE 155: Introduction to Human-Computer Interaction Units: 4
+    CSE 160: Computer Networks Units: 4
+    EC 001: Introduction to Environmental Communications Units: 4
+    ECON 149: Economics of Sports Units: 4
+    ECON 153: Judgment and Decision Making Units: 4
+    ECON 155: Political Economics Units: 4
+    ENG 001: Introduction to Environmental Communications Units: 4
+    ENG 010: Foundations of Literary Studies Units: 4
+    ENG 018: Crime and Horror in Victorian Literature and Culture Units: 4
+    ENG 019: Animals and Literature Units: 4
+    ENG 031: Introduction to African-American Literature and Culture Units: 4
+    ENG 032: Introduction to Chicano/a Culture and Experiences Units: 4
+    ENG 033: Literature and Sexuality Units: 4
+    ENG 060: Science Fiction & Climate Disaster Units: 4
+    ENG 067: Environmental Justice in Beast Fables Units: 4
+    ENG 103: British and American Literature, 1830-1940 Units: 4
+    ENG 109: Encounters with Islam in Eighteenth- and Nineteenth-Century British Literature Units: 4
+    ENG 133: Race, Law, and American Literature Units: 4
+    ENG 156: Oscar Wilde: Artist, Martyr, Celebrity Units: 4
+    ENG 165: Tragic Drama: From Ancient Greece to the Present Day Units: 4
+    ENG 185: Reading from the Margin Units: 4
+    ENG 187: Shakespeare and Social Justice Units: 4
+    ENGR 091: Professional Development: People in an Engineered World Units: 2
+    ENGR 097: Engineering Service Learning I Units: 2
+    ENGR 175: Information Systems for Management Units: 4
+    ENGR 190: Engineering Capstone Design Units: 4
+    ENGR 191: Professional Seminar Units: 1
+    ENGR 197: Engineering Service Learning II Units: 3
+    ENVE 164: Energy Policy Units: 4
+    ESS 011: Climate Justice Units: 4
+    ESS 034: Introduction to Marine Science Units: 4
+    ESS 043: Biodiversity and Conservation Units: 4
+    ESS 047: Astrobiology Units: 4
+    FRE 103: French Composition and Conversation Units: 4
+    GASP 059A: Cinema as Rebellion and Love Units: 4
+    GASP 070A: Music of the Pacific World Units: 4
+    GASP 070B: Music of the Atlantic World Units: 4
+    GASP 070C: Music of the Caribbean World Units: 4
+    GASP 075A: Meaning in Music Units: 4
+    GASP 076A: Social Dance, Social Bodies Units: 4
+    GASP 103U: Race and the Media Units: 4
+    GASP 172: Curatorial Methods and Practices Units: 4
+    GASP 172A: Critical Popular Music Studies Units: 4
+    GASP 172B: Global Popular Music Units: 4
+    GASP 173A: Theory and Method of Ethnomusicology Units: 4
+    GASP 174A: Music, Gender, and Sexuality Units: 4
+    HIST 027: Local Harvest, Global Industry: History of the Production and Consumption of Food Units: 4
+    HIST 100: The Historian’s Craft Units: 4
+    HS 140: Cultural Heritage Policy and Practice Units: 4
+    HS 190: Topics in World Heritage Units: 4
+    JPN 103: Advanced Japanese I Units: 4
+    JPN 104: Advanced Japanese II Units: 4
+    ME 170: Mechanical Engineering Capstone Design Units: 3
+    MGMT 122: Teams and Organizations Units: 4
+    MGMT 123: Business Ethics Units: 4
+    MGMT 124: Organizational Behavior and Leadership Units: 4
+    MGMT 125: Entertainment Management Units: 4
+    MGMT 127: Public Sector and Non-profit Management Units: 4
+    MGMT 135: Business Law Units: 4
+    MGMT 136: Advanced Business Law Units: 4
+    MGMT 153: Judgment and Decision Making Units: 4
+    MIST 011: Climate Justice Units: 4
+    MIST 130: Statistical Data Analysis and Optimization in R for Decision Support Units: 4
+    MIST 164: Energy Policy Units: 4
+    MIST 175: Information Systems for Management Units: 4
+    MSE 151: Materials Processing & Performance I: Materials Thermodynamics and Kinetics Units: 4
+    PH 005: Global and International Public Health Units: 4
+    PHIL 002: Introduction to Ethics Units: 4
+    PHIL 003: Contemporary Moral Problems Units: 4
+    PHIL 008: Love, Sex, and Gender Units: 4
+    PHIL 104: Ethical Theory Units: 4
+    PHIL 122: Bioethics Units: 4
+    PHIL 128: Human Rights Units: 4
+    PHIL 131: Topics in Ancient Philosophy Units: 4
+    PHIL 157: Philosophy of Love and Friendship Units: 4
+    PHYS 195: Upper Division Undergraduate Research Units:
+    PHYS 196: Undergraduate Thesis Units: 2
+    POLI 112: Public Policy: Analysis, Strategy, and Impact Units: 4
+    POLI 153: Judgment and Decision Making Units: 4
+    POLI 158: Politics of Human Rights Units: 4
+    PSY 015: Research Methods in Psychology Units: 4
+    PSY 125: Cognition, Affect, and Health Units: 4
+    PSY 133: Neurodevelopmental Cognitive, Language and Learning Disorders Units: 4
+    PSY 140: Clinical Psychology Units: 4
+    PSY 142: Psychopathology Units: 4
+    PSY 156: Social Psychology Units: 4
+    PSY 171: Psychological Tests and Measurement Units: 4
+    PSY 183: Introduction to Human Behavioral Genetics Units: 4
+    PSY 195: Upper Division Undergraduate Research Units:
+    SOC 015: Sociological Research Methods Units: 4
+    SOC 107: Law and Society Units: 4
+    SOC 145: Sociology of Health Units: 4
+    SOC 146: Social Determinants of Health Units: 4
+    SOC 170: Qualitative Research Methods Units: 4
+    SOC 175: Topics in Advanced Sociological Research Methods Units: 4
+    SPAN 050: Introduction to Hispanic Literatures I Units: 4
+    SPAN 060: Introduction to Chicano/a Culture and Experiences Units: 4
+    SPAN 105: Hispanic Cultures I Units: 4
+    SPAN 106: Hispanic Cultures II Units: 4
+    SPAN 107: Spanish for Health Professionals Units: 4
+    SPAN 108: Spanish for Business and Management Units: 4
+    SPAN 111: Empire, The Postcolonial, and Representation: Reading East & West Units: 4
+    SPAN 114: Latinx in Children’s Literature and Film Units: 4
+    SPAN 140: Latin American Colonial Literature Units: 4
+    SPAN 143: Latin American Literature since Independence Units: 4
+    SPAN 144: Caribbean Literatures and Cultures Units: 4
+    SPAN 145: Novel of the Latin American Dictator Units: 4
+    SPAN 146: Latin American Film and Fiction Units: 4
+    SPAN 147: Latin American Boom Units: 4
+    SPAN 148: The Narrative World of Mario Vargas Llosa Units: 4
+    SPAN 150: Asians in the Americas Units: 4
+    SPAN 151: Diasporas and Exiles in Latin America Units: 4
+    SPAN 177: Sociolinguistics and Latino Health Units: 4
+    SPAN 195: Upper Division Undergraduate Research Units:
+    WRI 141: Writing Narrative for Archaeology Units: 4
